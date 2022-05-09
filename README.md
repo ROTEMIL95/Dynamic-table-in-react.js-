@@ -14,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `Libraries are installed in projcet`
+
+1) nanoid - A tiny, secure, URL-friendly, unique string ID generator for JavaScript. 
+2) npm i nanoid .
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
